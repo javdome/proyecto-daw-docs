@@ -32,7 +32,7 @@ distribuido por las diferentes escuelas (por ejemplo, en la escuela de
 Coruña hay un instructor y en la de Bilbao hay dos). En la Fig.1 se
 muestra la distribución del departamento.
 
-![](/media/image1.jpeg)
+![](/proyecto-daw-docs/media/image1.jpeg)
 
 *Figura 1 - Distribución geográfica del departamento de formación técnica
 de VW*
@@ -61,7 +61,7 @@ disponibilidad de los instructores (vacaciones, bajas, etc...).
 En la siguiente imagen se muestra un mapa conceptual con los principales
 actores, y sus relaciones, dentro de la organización del departamento.
 
-![](/media/image2.jpeg)
+![](/proyecto-daw-docs/media/image2.jpeg)
 
 *Figura 2 - Mapa conceptual de la organización del departamento.*
 
@@ -70,7 +70,7 @@ de tener en cuenta la interrelación Tareas-Instructores-Aulas-Escuelas.
 Hasta la actualidad se ha estado empleando una hoja Excel. En la Figura
 3 se muestra un ejemplo de la herramienta empleada:
 
-![](/media/image3.jpeg)
+![](/proyecto-daw-docs/media/image3.jpeg)
 
 *Figura 3 - Herramienta de planificación del departamento en Excel*
 

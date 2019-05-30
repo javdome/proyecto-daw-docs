@@ -115,11 +115,11 @@ A continuación se muestra la planificación temporal del proyecto. Debido
 al amplio plazo ha habido momentos de paro, así como modificaciones a la
 idea inicial del proyecto.
 
-![](/media/image9.png)
+![](/proyecto-daw-docs/media/image9.png)
 
 Para la realización del siguiente diagrama he empleado el módulo
 Timeline-plus (fork de Vis).
 
-![Gant\_Timeplus](/media/image10.jpeg)
+![Gant\_Timeplus](/proyecto-daw-docs/media/image10.jpeg)
 
 *Figura 9 -- Diagrama de la planificación temporal del proyecto*

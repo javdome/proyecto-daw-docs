@@ -5,7 +5,7 @@
 A continuación se muestra el diagrama de despliegue empleado en el
 proyecto.
 
-![](/media/image26.jpeg)
+![](/proyecto-daw-docs/media/image26.jpeg)
 
 *Figura 25 - Diagrama de despliegue*
 

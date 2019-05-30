@@ -8,7 +8,7 @@ Para el presente proyecto se debe realizar una mención especial sobre la
 librería de JavaScript Visjs (*http://visjs.org/*). En concreto, su
 módulo Timeline.
 
-![](/media/image4.jpeg)
+![](/proyecto-daw-docs/media/image4.jpeg)
 
 *Figura 4 - Ejemplo básico del módulo Timeline de visjs
 (http://visjs.org/examples/timeline/basicUsage.html)*
@@ -57,9 +57,9 @@ compatibles entre sí.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="/media/image5.jpeg" alt="LogoVis" style="width:1.78889in;height:1.38056in" /></p>
+<td><p><img src="/proyecto-daw-docs/media/image5.jpeg" alt="LogoVis" style="width:1.78889in;height:1.38056in" /></p>
 <p>Figura 5 - Logo de Vis.js</p></td>
-<td><p><img src="/media/image6.png" alt="C:\Users\Javi\AppData\Local\Microsoft\Windows\INetCache\Content.Word\TimelinePlus.png" style="width:1.28139in;height:1.37795in" /></p>
+<td><p><img src="/proyecto-daw-docs/media/image6.png" alt="C:\Users\Javi\AppData\Local\Microsoft\Windows\INetCache\Content.Word\TimelinePlus.png" style="width:1.28139in;height:1.37795in" /></p>
 <p>Figura 6 - Logo Timeline-plus</p></td>
 </tr>
 </tbody>
@@ -90,7 +90,7 @@ hayan descartado otros frameworks como Material Design o Bulma, es que
 es el que he estudiado en el ciclo formativo. Además de que Bootstrap
 tiene una amplia comunidad y documentación del usuario.
 
-![](/media/image7.jpeg)
+![](/proyecto-daw-docs/media/image7.jpeg)
 
 *Figura 7 - Logo de Bootstrap*
 
@@ -99,7 +99,7 @@ tiene una amplia comunidad y documentación del usuario.
 En el lado servidor se ha empleado el Framework de PHP: Laravel
 (*https://laravel.com/*).
 
-![LaravelLogo](/media/image8.jpeg)
+![LaravelLogo](/proyecto-daw-docs/media/image8.jpeg)
 
 *Figura 8 - Logo de Laravel*
 

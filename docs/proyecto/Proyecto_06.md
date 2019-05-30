@@ -9,7 +9,7 @@ y la gestión de escenarios de planificaciones
 Respecto a la codificación, el planificador es la parte que más tiempo
 ha consumido.
 
-![Planificador01](/media/image23.jpeg)
+![Planificador01](/proyecto-daw-docs/media/image23.jpeg)
 
 *Figura 22 - Vista del planificador*
 
@@ -50,7 +50,7 @@ propios métodos y eventos (http://visjs.org/docs/data/dataset.html).
 La siguiente figura ilustra la procedencia de los datos de ambos
 DataSet.
 
-![DataSet](/media/image24.jpeg)
+![DataSet](/proyecto-daw-docs/media/image24.jpeg)
 
 *Figura 23 - Creación de los DataSet de instructores y aulas*
 
@@ -117,7 +117,7 @@ Recordemos que el id de la tarea es el mismo en ambos DataSet.
 Este proceso también debe ocurrir en sentido contrario, es decir, si
 se modifica DataSet_2, se debe actualizar DataSet_1.
 
-![SincronizacionItems](/media/image25.jpeg)
+![SincronizacionItems](/proyecto-daw-docs/media/image25.jpeg)
 
 *Figura 24 - Proceso de sincronización de Items entre ambas Timeline*
 

@@ -35,7 +35,7 @@ En la siguiente figura se muestra la evolución y *roadmap* del proyecto.
 La evolución de las diferentes versiones que se han ido creando se puede
 ver en el apartado Anexos del presente documento.
 
-![](/media/image27.jpg)
+![](/proyecto-daw-docs/media/image27.jpg)
 
 *Figura 26 -- Evolución y roadmap del proyecto*
 

@@ -78,19 +78,19 @@ aplicativo.
 
 **Diagrama de casos de uso de Administrador:**
 
-![CasoUso01](/media/image11.jpeg)
+![CasoUso01](/proyecto-daw-docs/media/image11.jpeg)
 
 *Figura 10 - Diagrama de casos de uso de Administrador*
 
 **Diagrama de casos de uso de Responsable e Instructor:**
 
-![CasoUso02](/media/image12.jpeg)
+![CasoUso02](/proyecto-daw-docs/media/image12.jpeg)
 
 *Figura 11 - Diagrama de casos de uso de Responsable e Instructor*
 
 **Diagrama de casos de uso de SuperAdmin:**]{.underline}**
 
-![CasoUso03](/media/image13.jpeg)
+![CasoUso03](/proyecto-daw-docs/media/image13.jpeg)
 
 *Figura 12 - Diagrama de casos de uso de super administrador*
 

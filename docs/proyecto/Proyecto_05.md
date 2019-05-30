@@ -21,11 +21,11 @@ En la Figura 13 se muestra el diagrama Entidad-Relación, la estructura
 final de las tablas se puede observar en la Figura 14, y en los Anexos
 se incluye el Diseño Lógico y Físico de la base de datos
 
-![](/media/image14.jpeg)
+![](/proyecto-daw-docs/media/image14.jpeg)
 
 *Figura 13 - Diagrama Entidad-Relación*
 
-![](/media/image15.jpeg)
+![](/proyecto-daw-docs/media/image15.jpeg)
 
 *Figura 14 - Estructura de tablas*
 
@@ -33,7 +33,7 @@ se incluye el Diseño Lógico y Físico de la base de datos
 
 ### Diagramas de clases.
 
-![](/media/image16.jpeg)
+![](/proyecto-daw-docs/media/image16.jpeg)
 
 *Figura 15 - Diagrama de clases*
 
@@ -42,7 +42,7 @@ se incluye el Diseño Lógico y Físico de la base de datos
 El siguiente diagrama de secuencia muestra la secuenciación temporal del
 caso de uso "Mostrar estadísticas".
 
-![](/media/image16.jpeg)
+![](/proyecto-daw-docs/media/image16.jpeg)
 
 *Figura 16 - Diagrama de secuencia del caso de uso "Mostrar estadísticas"*
 
@@ -68,7 +68,7 @@ Si todo ha funcionado correctamente, se deberá mostrar un mensaje de
 
 A continuación se muestra el diagrama de actividad explicado:
 
-![](/media/image18.jpeg)
+![](/proyecto-daw-docs/media/image18.jpeg)
 
 *Figura 17 - Diagrama de actividad del sistema de guardado de la
 planificación en la BBDD*
@@ -79,7 +79,7 @@ En la siguiente figura se muestra el mapa del sitio web, con las
 principales páginas y sus enlaces, en función del perfil de usuario que
 accede al aplicativo.
 
-![](/media/image19.jpeg)
+![](/proyecto-daw-docs/media/image19.jpeg)
 
 *Figura 18 - Mapa del sitio web según el perfil del usuario.*
 
@@ -91,7 +91,7 @@ sitio.
 Una vez logueado el Administrador, se muestra su Home del sitio que
 sirve de enlace entre los diferentes apartados principales.
 
-![](/media/image20.jpeg)
+![](/proyecto-daw-docs/media/image20.jpeg)
 
 *Figura 19 - Mockup del Home del sitio web.*
 
@@ -100,14 +100,14 @@ tres formularios seleccionables desde pestañas. Más bajo, las dos líneas
 de tiempo donde se muestran las tareas que afectan a los instructores y
 a las aulas empleadas, respectivamente.
 
-![](/media/image21.jpeg)
+![](/proyecto-daw-docs/media/image21.jpeg)
 
 *Figura 20 - Mockup del apartado "Planificación" del sitio web.*
 
 Los apartados de *Edición de datos*, *Configuración* y *Estadísticas*
 básicamente muestran tablas con una estética "Bootstrap".
 
-![](/media/image22.jpeg)
+![](/proyecto-daw-docs/media/image22.jpeg)
 
 Figura 21 - Mockup de los apartados de edición configuración y
 estadísticas.
