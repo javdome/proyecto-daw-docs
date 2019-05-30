@@ -8,7 +8,7 @@ Para el presente proyecto se debe realizar una mención especial sobre la
 librería de JavaScript Visjs (*http://visjs.org/*). En concreto, su
 módulo Timeline.
 
-![](/media/image1.jpeg)
+![](/media/image4.jpeg)
 
 *Figura 4 - Ejemplo básico del módulo Timeline de visjs
 (http://visjs.org/examples/timeline/basicUsage.html)*

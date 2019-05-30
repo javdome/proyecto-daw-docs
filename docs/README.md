@@ -1,14 +1,14 @@
 ---
 home: true
 heroImage: /LogoTimelinePlusModif.png
-#actionText: Get Started →
-#actionLink: /guide/
+actionText: Documentación →
+actionLink: /proyecto/
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+- title: Autor
+  details: Javier Doménech Bargues
+- title: Ciclo
+  details: Desarrollo de aplicaciones web (DAW) - ceedcv - Curso 2018/19
+- title: Tutor
+  details: Alfredo Oltra.
 footer: Página realizada por Javi Domenech
 ---

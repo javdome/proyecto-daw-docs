@@ -24,7 +24,7 @@ usuario root. A continuación, y para mayor seguridad, se ha modificado
 el puerto de acceso al servidor. De esta forma se accede al sevidor via
 ssh:
 ``` sh
-ssh usario\@ip.del.vps -p NºPuerto
+ssh usario@ip.del.vps -p NºPuerto
 ```
 
 También se ha procedido a la instalación de el Firewall UFW
