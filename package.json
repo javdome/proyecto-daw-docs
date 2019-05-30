@@ -6,6 +6,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "docs:deploy": "npm run docs:build && cd docs/.vuepress/dist && git init && git add -A && git commit -m 'deploy' && git remote add deploy git@github.com:javdome/proyecto-daw-docs.git && git push -f deploy master:gh-pages && cd ../../..",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
