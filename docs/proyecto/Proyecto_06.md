@@ -68,7 +68,7 @@ var Timeline_1 = new vis.Timeline( container_1 , DataSet_1 , groups_1 , options_
 
 var Timeline_2 = new vis.Timeline( container_2 , DataSet_2 , groups_2 , options_2 );
 ```
-::: warning NOTA
+::: warning
 *container* son los elementos "div" y los *groups* son los
 elementos del eje vertical (instructores y aulas, respectivamente).
 :::

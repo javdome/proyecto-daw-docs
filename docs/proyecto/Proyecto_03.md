@@ -52,9 +52,6 @@ A continuación se muestra un análisis DAFO del presente proyecto.
 
 El tipo de licencia seleccionada es el de *Software privativo*
 ([[https://es.wikipedia.org/wiki/Software\_propietario]](https://es.wikipedia.org/wiki/Software_propietario)).
-El principal motivo es que el aplicativo va a ser empleado en un ámbito
-privado, por lo que existe la posibilidad de obtener un rendimiento
-económico.
 
 Este tipo de licencia es compatible con las licencias del software de
 terceros empleados en el proyecto. Laravel, Bootstrap, Timeline-plus,
